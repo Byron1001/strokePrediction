@@ -20,6 +20,9 @@
             <img src="./Comparison/recall.png" alt="" width=100%>
             <img src="./Comparison/precision.png" alt="" width=100%>
         </p>
+        <p><h3>Shiny Framework</h3>
+            <img src="./Comparison/UI.png" alt="" width=100%>
+        </p>
         <h2>Conclusion</h2>
         <p>In a nutshell, after processing with the data pre-processing 
             and up until processing with modeling the outcome has been 
